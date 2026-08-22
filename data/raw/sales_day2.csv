@@ -1,0 +1,301 @@
+﻿id_venda,data_venda,id_cliente,cliente,segmento,cidade,estado,regiao,id_produto,produto,categoria,id_vendedor,vendedor,quantidade,preco_unitario,desconto_pct,custo_unitario
+VDA0095,2025-01-04,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,12,240.00,0.00,125.00
+VDA0020,2025-01-06,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V004,Rafael Martins,5,420.00,0.00,230.00
+VDA0151,2025-01-08,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,4,420.00,0.00,230.00
+VDA0277,2025-01-09,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,3,1100.00,0.00,720.00
+VDA0064,2025-01-13,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P007,Headset Pro,Periféricos,V003,Beatriz Alves,1,350.00,0.15,190.00
+VDA0067,2025-01-13,C010,Pará Sistemas,PME,Belém,PA,Norte,P004,Monitor 27,Monitores,V006,Marcos Silva,5,1450.00,0.05,1020.00
+VDA0114,2025-01-15,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P006,Teclado Mecânico,Periféricos,V004,Rafael Martins,4,280.00,0.03,145.00
+VDA0267,2025-01-15,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P004,Monitor 27,Monitores,V004,Rafael Martins,2,1450.00,0.00,1020.00
+VDA0033,2025-01-17,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P002,Notebook Air 13,Informática,V001,Ana Souza,8,2900.00,0.00,2200.00
+VDA0134,2025-01-17,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P005,Mouse Wireless,Periféricos,V004,Rafael Martins,2,120.00,0.10,55.00
+VDA0192,2025-01-17,C016,Tocantins Agro,PME,Palmas,TO,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,5,120.00,0.00,55.00
+VDA0282,2025-01-19,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,6,120.00,0.00,55.00
+VDA0268,2025-01-20,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P003,Monitor 24,Monitores,V002,Carlos Lima,2,950.00,0.10,670.00
+VDA0018,2025-01-25,C005,SulData,Corporativo,Curitiba,PR,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,10,2900.00,0.00,2200.00
+VDA0057,2025-01-27,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,1,120.00,0.05,55.00
+VDA0241,2025-01-29,C010,Pará Sistemas,PME,Belém,PA,Norte,P010,SSD 1TB,Armazenamento,V006,Marcos Silva,3,520.00,0.00,330.00
+VDA0026,2025-01-30,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P004,Monitor 27,Monitores,V001,Ana Souza,2,1450.00,0.05,1020.00
+VDA0242,2025-01-30,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P001,Notebook Pro 14,Informática,V004,Rafael Martins,3,3500.00,0.00,2650.00
+VDA0137,2025-01-31,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P002,Notebook Air 13,Informática,V006,Marcos Silva,1,2900.00,0.03,2200.00
+VDA0019,2025-02-02,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,3,520.00,0.08,330.00
+VDA0202,2025-02-02,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,3,1100.00,0.10,720.00
+VDA0009,2025-02-05,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,1,1100.00,0.00,720.00
+VDA0165,2025-02-05,C016,Tocantins Agro,PME,Palmas,TO,Norte,P010,SSD 1TB,Armazenamento,V006,Marcos Silva,2,520.00,0.10,330.00
+VDA0298,2025-02-07,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P003,Monitor 24,Monitores,V005,Juliana Rocha,3,950.00,0.12,670.00
+VDA0133,2025-02-08,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P009,Dock USB-C,Acessórios,V005,Juliana Rocha,1,420.00,0.05,230.00
+VDA0250,2025-02-11,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P006,Teclado Mecânico,Periféricos,V006,Marcos Silva,4,280.00,0.00,145.00
+VDA0146,2025-02-15,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,2,240.00,0.03,125.00
+VDA0166,2025-02-16,C010,Pará Sistemas,PME,Belém,PA,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,3,1100.00,0.00,720.00
+VDA0210,2025-02-18,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P007,Headset Pro,Periféricos,V004,Rafael Martins,2,350.00,0.03,190.00
+VDA0249,2025-02-18,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,4,280.00,0.05,145.00
+VDA0212,2025-02-19,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P007,Headset Pro,Periféricos,V002,Carlos Lima,6,350.00,0.03,190.00
+VDA0193,2025-02-20,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,20,280.00,0.03,145.00
+VDA0010,2025-02-21,C010,Pará Sistemas,PME,Belém,PA,Norte,P004,Monitor 27,Monitores,V006,Marcos Silva,3,1450.00,0.05,1020.00
+VDA0263,2025-02-22,C016,Tocantins Agro,PME,Palmas,TO,Norte,P009,Dock USB-C,Acessórios,V006,Marcos Silva,6,420.00,0.05,230.00
+VDA0287,2025-02-22,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P006,Teclado Mecânico,Periféricos,V003,Beatriz Alves,1,280.00,0.10,145.00
+VDA0215,2025-02-23,C010,Pará Sistemas,PME,Belém,PA,Norte,P006,Teclado Mecânico,Periféricos,V006,Marcos Silva,4,280.00,0.00,145.00
+VDA0055,2025-02-24,C005,SulData,Corporativo,Curitiba,PR,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,6,2900.00,0.00,2200.00
+VDA0070,2025-02-25,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P001,Notebook Pro 14,Informática,V005,Juliana Rocha,4,3500.00,0.03,2650.00
+VDA0106,2025-02-25,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P005,Mouse Wireless,Periféricos,V002,Carlos Lima,4,120.00,0.15,55.00
+VDA0272,2025-02-26,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P002,Notebook Air 13,Informática,V005,Juliana Rocha,8,2900.00,0.05,2200.00
+VDA0136,2025-02-28,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P007,Headset Pro,Periféricos,V005,Juliana Rocha,4,350.00,0.08,190.00
+VDA0295,2025-02-28,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P004,Monitor 27,Monitores,V004,Rafael Martins,1,1450.00,0.00,1020.00
+VDA0069,2025-03-01,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P001,Notebook Pro 14,Informática,V003,Beatriz Alves,10,3500.00,0.00,2650.00
+VDA0189,2025-03-01,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P008,Webcam HD,Acessórios,V001,Ana Souza,1,240.00,0.12,125.00
+VDA0296,2025-03-02,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P009,Dock USB-C,Acessórios,V001,Ana Souza,2,420.00,0.00,230.00
+VDA0074,2025-03-05,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P011,HD Externo 2TB,Armazenamento,V004,Rafael Martins,6,610.00,0.03,390.00
+VDA0138,2025-03-05,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,3,240.00,0.03,125.00
+VDA0125,2025-03-06,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,5,1100.00,0.10,720.00
+VDA0061,2025-03-07,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P007,Headset Pro,Periféricos,V001,Ana Souza,1,350.00,0.03,190.00
+VDA0098,2025-03-07,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,20,240.00,0.05,125.00
+VDA0149,2025-03-09,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P009,Dock USB-C,Acessórios,V005,Juliana Rocha,12,420.00,0.05,230.00
+VDA0016,2025-03-13,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P005,Mouse Wireless,Periféricos,V002,Carlos Lima,2,120.00,0.05,55.00
+VDA0237,2025-03-16,C005,SulData,Corporativo,Curitiba,PR,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,2,2900.00,0.00,2200.00
+VDA0084,2025-03-17,C016,Tocantins Agro,PME,Palmas,TO,Norte,P004,Monitor 27,Monitores,V006,Marcos Silva,5,1450.00,0.00,1020.00
+VDA0111,2025-03-20,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,3,1100.00,0.10,720.00
+VDA0293,2025-03-20,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,5,520.00,0.15,330.00
+VDA0063,2025-03-21,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,12,520.00,0.00,330.00
+VDA0191,2025-03-21,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,10,520.00,0.08,330.00
+VDA0223,2025-03-21,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P001,Notebook Pro 14,Informática,V005,Juliana Rocha,1,3500.00,0.08,2650.00
+VDA0255,2025-03-21,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P003,Monitor 24,Monitores,V005,Juliana Rocha,1,950.00,0.10,670.00
+VDA0300,2025-03-22,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,6,120.00,0.15,55.00
+VDA0065,2025-03-23,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,6,120.00,0.00,55.00
+VDA0024,2025-03-24,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P006,Teclado Mecânico,Periféricos,V005,Juliana Rocha,4,280.00,0.10,145.00
+VDA0264,2025-03-24,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P002,Notebook Air 13,Informática,V004,Rafael Martins,2,2900.00,0.12,2200.00
+VDA0257,2025-03-25,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P003,Monitor 24,Monitores,V004,Rafael Martins,2,950.00,0.10,670.00
+VDA0105,2025-03-27,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P006,Teclado Mecânico,Periféricos,V004,Rafael Martins,4,280.00,0.15,145.00
+VDA0085,2025-04-01,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P004,Monitor 27,Monitores,V004,Rafael Martins,8,1450.00,0.10,1020.00
+VDA0038,2025-04-08,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P004,Monitor 27,Monitores,V002,Carlos Lima,4,1450.00,0.00,1020.00
+VDA0044,2025-04-08,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P003,Monitor 24,Monitores,V003,Beatriz Alves,2,950.00,0.15,670.00
+VDA0116,2025-04-08,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P009,Dock USB-C,Acessórios,V006,Marcos Silva,1,420.00,0.10,230.00
+VDA0154,2025-04-08,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P007,Headset Pro,Periféricos,V003,Beatriz Alves,12,350.00,0.05,190.00
+VDA0121,2025-04-09,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P012,Cadeira Office,Mobiliário,V005,Juliana Rocha,2,1100.00,0.10,720.00
+VDA0123,2025-04-10,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P002,Notebook Air 13,Informática,V001,Ana Souza,2,2900.00,0.03,2200.00
+VDA0003,2025-04-12,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P009,Dock USB-C,Acessórios,V005,Juliana Rocha,6,420.00,0.10,230.00
+VDA0107,2025-04-12,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P007,Headset Pro,Periféricos,V005,Juliana Rocha,1,350.00,0.10,190.00
+VDA0066,2025-04-13,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P004,Monitor 27,Monitores,V001,Ana Souza,8,1450.00,0.05,1020.00
+VDA0103,2025-04-13,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P004,Monitor 27,Monitores,V001,Ana Souza,8,1450.00,0.08,1020.00
+VDA0049,2025-04-15,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,5,120.00,0.03,55.00
+VDA0227,2025-04-15,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P001,Notebook Pro 14,Informática,V002,Carlos Lima,2,3500.00,0.00,2650.00
+VDA0197,2025-04-17,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P009,Dock USB-C,Acessórios,V005,Juliana Rocha,4,420.00,0.10,230.00
+VDA0132,2025-04-19,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,2,610.00,0.00,390.00
+VDA0195,2025-04-19,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,5,610.00,0.08,390.00
+VDA0254,2025-04-20,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P003,Monitor 24,Monitores,V001,Ana Souza,2,950.00,0.10,670.00
+VDA0032,2025-04-23,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,1,520.00,0.10,330.00
+VDA0118,2025-04-24,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P005,Mouse Wireless,Periféricos,V001,Ana Souza,3,120.00,0.00,55.00
+VDA0187,2025-04-24,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,5,520.00,0.08,330.00
+VDA0265,2025-04-24,C005,SulData,Corporativo,Curitiba,PR,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,8,2900.00,0.12,2200.00
+VDA0102,2025-04-25,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P006,Teclado Mecânico,Periféricos,V001,Ana Souza,5,280.00,0.10,145.00
+VDA0031,2025-04-26,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P004,Monitor 27,Monitores,V002,Carlos Lima,1,1450.00,0.00,1020.00
+VDA0177,2025-04-28,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P005,Mouse Wireless,Periféricos,V001,Ana Souza,4,120.00,0.03,55.00
+VDA0135,2025-04-30,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,12,610.00,0.10,390.00
+VDA0186,2025-04-30,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,3,610.00,0.08,390.00
+VDA0047,2025-05-01,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,3,610.00,0.15,390.00
+VDA0271,2025-05-02,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,2,120.00,0.00,55.00
+VDA0090,2025-05-03,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,2,610.00,0.00,390.00
+VDA0196,2025-05-05,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P006,Teclado Mecânico,Periféricos,V001,Ana Souza,20,280.00,0.10,145.00
+VDA0012,2025-05-06,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,1,420.00,0.03,230.00
+VDA0089,2025-05-07,C016,Tocantins Agro,PME,Palmas,TO,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,8,120.00,0.00,55.00
+VDA0039,2025-05-08,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,10,240.00,0.00,125.00
+VDA0086,2025-05-08,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,10,420.00,0.00,230.00
+VDA0129,2025-05-08,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P002,Notebook Air 13,Informática,V005,Juliana Rocha,1,2900.00,0.10,2200.00
+VDA0199,2025-05-09,C005,SulData,Corporativo,Curitiba,PR,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,8,420.00,0.00,230.00
+VDA0115,2025-05-13,C016,Tocantins Agro,PME,Palmas,TO,Norte,P006,Teclado Mecânico,Periféricos,V006,Marcos Silva,2,280.00,0.12,145.00
+VDA0022,2025-05-15,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P012,Cadeira Office,Mobiliário,V002,Carlos Lima,15,1100.00,0.10,720.00
+VDA0052,2025-05-16,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,1,420.00,0.03,230.00
+VDA0163,2025-05-16,C005,SulData,Corporativo,Curitiba,PR,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,2,240.00,0.10,125.00
+VDA0201,2025-05-16,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P003,Monitor 24,Monitores,V002,Carlos Lima,1,950.00,0.10,670.00
+VDA0141,2025-05-18,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,4,610.00,0.10,390.00
+VDA0001,2025-05-21,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P012,Cadeira Office,Mobiliário,V002,Carlos Lima,2,1100.00,0.00,720.00
+VDA0194,2025-05-22,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P007,Headset Pro,Periféricos,V001,Ana Souza,2,350.00,0.00,190.00
+VDA0005,2025-05-23,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P006,Teclado Mecânico,Periféricos,V003,Beatriz Alves,1,280.00,0.15,145.00
+VDA0113,2025-05-23,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P002,Notebook Air 13,Informática,V002,Carlos Lima,10,2900.00,0.00,2200.00
+VDA0261,2025-05-25,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,6,240.00,0.05,125.00
+VDA0053,2025-05-26,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,1,280.00,0.10,145.00
+VDA0126,2025-05-26,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P010,SSD 1TB,Armazenamento,V002,Carlos Lima,3,520.00,0.05,330.00
+VDA0259,2025-05-26,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,6,520.00,0.10,330.00
+VDA0297,2025-05-27,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P010,SSD 1TB,Armazenamento,V002,Carlos Lima,5,520.00,0.15,330.00
+VDA0008,2025-05-31,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,8,420.00,0.08,230.00
+VDA0175,2025-06-01,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,1,1100.00,0.10,720.00
+VDA0023,2025-06-02,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,8,610.00,0.05,390.00
+VDA0156,2025-06-02,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,8,120.00,0.05,55.00
+VDA0108,2025-06-04,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P012,Cadeira Office,Mobiliário,V005,Juliana Rocha,8,1100.00,0.08,720.00
+VDA0081,2025-06-08,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,2,610.00,0.00,390.00
+VDA0219,2025-06-08,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P012,Cadeira Office,Mobiliário,V003,Beatriz Alves,12,1100.00,0.03,720.00
+VDA0281,2025-06-08,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P006,Teclado Mecânico,Periféricos,V005,Juliana Rocha,4,280.00,0.15,145.00
+VDA0222,2025-06-09,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,6,280.00,0.10,145.00
+VDA0045,2025-06-10,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P012,Cadeira Office,Mobiliário,V005,Juliana Rocha,1,1100.00,0.08,720.00
+VDA0231,2025-06-10,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P002,Notebook Air 13,Informática,V001,Ana Souza,4,2900.00,0.05,2200.00
+VDA0299,2025-06-13,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,5,610.00,0.10,390.00
+VDA0158,2025-06-14,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,10,240.00,0.15,125.00
+VDA0206,2025-06-14,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P002,Notebook Air 13,Informática,V002,Carlos Lima,4,2900.00,0.00,2200.00
+VDA0025,2025-06-15,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P010,SSD 1TB,Armazenamento,V001,Ana Souza,3,520.00,0.00,330.00
+VDA0140,2025-06-15,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,4,1100.00,0.00,720.00
+VDA0013,2025-06-16,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,8,610.00,0.10,390.00
+VDA0180,2025-06-17,C005,SulData,Corporativo,Curitiba,PR,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,6,120.00,0.00,55.00
+VDA0228,2025-06-17,C005,SulData,Corporativo,Curitiba,PR,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,1,120.00,0.05,55.00
+VDA0093,2025-06-19,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P007,Headset Pro,Periféricos,V004,Rafael Martins,4,350.00,0.05,190.00
+VDA0283,2025-06-19,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,2,610.00,0.10,390.00
+VDA0058,2025-06-20,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P001,Notebook Pro 14,Informática,V006,Marcos Silva,6,3500.00,0.08,2650.00
+VDA0235,2025-06-20,C010,Pará Sistemas,PME,Belém,PA,Norte,P004,Monitor 27,Monitores,V006,Marcos Silva,6,1450.00,0.00,1020.00
+VDA0278,2025-06-20,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,1,520.00,0.03,330.00
+VDA0091,2025-06-21,C010,Pará Sistemas,PME,Belém,PA,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,2,120.00,0.05,55.00
+VDA0256,2025-06-22,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,10,610.00,0.08,390.00
+VDA0182,2025-06-23,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,8,120.00,0.05,55.00
+VDA0248,2025-06-23,C010,Pará Sistemas,PME,Belém,PA,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,5,350.00,0.00,190.00
+VDA0021,2025-06-24,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,1,610.00,0.05,390.00
+VDA0056,2025-06-25,C010,Pará Sistemas,PME,Belém,PA,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,2,1100.00,0.08,720.00
+VDA0068,2025-06-29,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,5,120.00,0.05,55.00
+VDA0216,2025-06-29,C016,Tocantins Agro,PME,Palmas,TO,Norte,P002,Notebook Air 13,Informática,V006,Marcos Silva,8,2900.00,0.03,2200.00
+VDA0236,2025-06-29,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,6,280.00,0.10,145.00
+VDA0289,2025-06-30,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P012,Cadeira Office,Mobiliário,V002,Carlos Lima,5,1100.00,0.05,720.00
+VDA0011,2025-07-01,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P006,Teclado Mecânico,Periféricos,V001,Ana Souza,2,280.00,0.00,145.00
+VDA0168,2025-07-03,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P005,Mouse Wireless,Periféricos,V002,Carlos Lima,3,120.00,0.00,55.00
+VDA0200,2025-07-03,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,6,3500.00,0.00,2650.00
+VDA0275,2025-07-04,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,1,420.00,0.05,230.00
+VDA0233,2025-07-05,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P012,Cadeira Office,Mobiliário,V004,Rafael Martins,1,1100.00,0.10,720.00
+VDA0190,2025-07-09,C005,SulData,Corporativo,Curitiba,PR,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,5,240.00,0.10,125.00
+VDA0252,2025-07-12,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P009,Dock USB-C,Acessórios,V004,Rafael Martins,5,420.00,0.03,230.00
+VDA0006,2025-07-14,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P002,Notebook Air 13,Informática,V002,Carlos Lima,1,2900.00,0.10,2200.00
+VDA0042,2025-07-14,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P003,Monitor 24,Monitores,V003,Beatriz Alves,1,950.00,0.05,670.00
+VDA0076,2025-07-14,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,5,610.00,0.12,390.00
+VDA0100,2025-07-14,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,2,120.00,0.05,55.00
+VDA0130,2025-07-14,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,3,420.00,0.05,230.00
+VDA0229,2025-07-14,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P003,Monitor 24,Monitores,V005,Juliana Rocha,4,950.00,0.00,670.00
+VDA0092,2025-07-16,C005,SulData,Corporativo,Curitiba,PR,Sul,P004,Monitor 27,Monitores,V003,Beatriz Alves,5,1450.00,0.10,1020.00
+VDA0184,2025-07-22,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,1,2900.00,0.05,2200.00
+VDA0266,2025-07-22,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,4,3500.00,0.00,2650.00
+VDA0230,2025-07-23,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,10,2900.00,0.00,2200.00
+VDA0017,2025-07-24,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P010,SSD 1TB,Armazenamento,V006,Marcos Silva,3,520.00,0.15,330.00
+VDA0014,2025-07-25,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P006,Teclado Mecânico,Periféricos,V005,Juliana Rocha,2,280.00,0.00,145.00
+VDA0234,2025-07-25,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,4,520.00,0.05,330.00
+VDA0037,2025-07-26,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,6,3500.00,0.10,2650.00
+VDA0075,2025-07-26,C010,Pará Sistemas,PME,Belém,PA,Norte,P006,Teclado Mecânico,Periféricos,V006,Marcos Silva,5,280.00,0.05,145.00
+VDA0232,2025-07-27,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P002,Notebook Air 13,Informática,V005,Juliana Rocha,1,2900.00,0.03,2200.00
+VDA0041,2025-07-28,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P003,Monitor 24,Monitores,V002,Carlos Lima,3,950.00,0.00,670.00
+VDA0188,2025-07-29,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V004,Rafael Martins,1,610.00,0.00,390.00
+VDA0159,2025-07-30,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P004,Monitor 27,Monitores,V005,Juliana Rocha,1,1450.00,0.10,1020.00
+VDA0155,2025-08-01,C005,SulData,Corporativo,Curitiba,PR,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,2,120.00,0.10,55.00
+VDA0101,2025-08-04,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P005,Mouse Wireless,Periféricos,V004,Rafael Martins,2,120.00,0.00,55.00
+VDA0110,2025-08-04,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,8,3500.00,0.00,2650.00
+VDA0002,2025-08-05,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P010,SSD 1TB,Armazenamento,V002,Carlos Lima,1,520.00,0.00,330.00
+VDA0036,2025-08-05,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P006,Teclado Mecânico,Periféricos,V004,Rafael Martins,3,280.00,0.12,145.00
+VDA0214,2025-08-05,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,10,610.00,0.10,390.00
+VDA0173,2025-08-06,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,5,610.00,0.05,390.00
+VDA0286,2025-08-06,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,1,1100.00,0.08,720.00
+VDA0288,2025-08-07,C010,Pará Sistemas,PME,Belém,PA,Norte,P010,SSD 1TB,Armazenamento,V006,Marcos Silva,1,520.00,0.05,330.00
+VDA0073,2025-08-09,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P006,Teclado Mecânico,Periféricos,V003,Beatriz Alves,1,280.00,0.10,145.00
+VDA0097,2025-08-12,C016,Tocantins Agro,PME,Palmas,TO,Norte,P005,Mouse Wireless,Periféricos,V006,Marcos Silva,3,120.00,0.05,55.00
+VDA0112,2025-08-12,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P008,Webcam HD,Acessórios,V006,Marcos Silva,8,240.00,0.08,125.00
+VDA0258,2025-08-13,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P012,Cadeira Office,Mobiliário,V002,Carlos Lima,1,1100.00,0.03,720.00
+VDA0179,2025-08-14,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P005,Mouse Wireless,Periféricos,V002,Carlos Lima,1,120.00,0.03,55.00
+VDA0240,2025-08-14,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P003,Monitor 24,Monitores,V004,Rafael Martins,1,950.00,0.05,670.00
+VDA0284,2025-08-14,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P012,Cadeira Office,Mobiliário,V005,Juliana Rocha,10,1100.00,0.05,720.00
+VDA0059,2025-08-15,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,4,1100.00,0.05,720.00
+VDA0088,2025-08-17,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V004,Rafael Martins,10,420.00,0.10,230.00
+VDA0245,2025-08-19,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,1,3500.00,0.12,2650.00
+VDA0209,2025-08-20,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P007,Headset Pro,Periféricos,V003,Beatriz Alves,10,350.00,0.05,190.00
+VDA0162,2025-08-22,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,1,420.00,0.00,230.00
+VDA0280,2025-08-23,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,1,2900.00,0.00,2200.00
+VDA0007,2025-08-24,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P001,Notebook Pro 14,Informática,V004,Rafael Martins,4,3500.00,0.15,2650.00
+VDA0279,2025-08-26,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P011,HD Externo 2TB,Armazenamento,V002,Carlos Lima,20,610.00,0.05,390.00
+VDA0260,2025-08-29,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,10,120.00,0.00,55.00
+VDA0276,2025-08-29,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P007,Headset Pro,Periféricos,V001,Ana Souza,1,350.00,0.05,190.00
+VDA0035,2025-08-31,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P004,Monitor 27,Monitores,V005,Juliana Rocha,8,1450.00,0.00,1020.00
+VDA0079,2025-08-31,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,8,420.00,0.15,230.00
+VDA0082,2025-09-01,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P004,Monitor 27,Monitores,V001,Ana Souza,5,1450.00,0.10,1020.00
+VDA0117,2025-09-01,C016,Tocantins Agro,PME,Palmas,TO,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,5,1100.00,0.05,720.00
+VDA0127,2025-09-02,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,1,120.00,0.00,55.00
+VDA0122,2025-09-05,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P004,Monitor 27,Monitores,V003,Beatriz Alves,2,1450.00,0.08,1020.00
+VDA0153,2025-09-05,C010,Pará Sistemas,PME,Belém,PA,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,20,350.00,0.00,190.00
+VDA0174,2025-09-05,C010,Pará Sistemas,PME,Belém,PA,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,1,350.00,0.05,190.00
+VDA0027,2025-09-06,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P012,Cadeira Office,Mobiliário,V002,Carlos Lima,8,1100.00,0.15,720.00
+VDA0034,2025-09-06,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,2,610.00,0.00,390.00
+VDA0143,2025-09-09,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,15,610.00,0.05,390.00
+VDA0285,2025-09-12,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P012,Cadeira Office,Mobiliário,V003,Beatriz Alves,3,1100.00,0.10,720.00
+VDA0148,2025-09-13,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P010,SSD 1TB,Armazenamento,V001,Ana Souza,5,520.00,0.10,330.00
+VDA0181,2025-09-14,C005,SulData,Corporativo,Curitiba,PR,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,10,420.00,0.10,230.00
+VDA0203,2025-09-15,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P008,Webcam HD,Acessórios,V001,Ana Souza,2,240.00,0.08,125.00
+VDA0046,2025-09-18,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P001,Notebook Pro 14,Informática,V001,Ana Souza,1,3500.00,0.00,2650.00
+VDA0071,2025-09-19,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P010,SSD 1TB,Armazenamento,V004,Rafael Martins,1,520.00,0.12,330.00
+VDA0225,2025-09-20,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P004,Monitor 27,Monitores,V005,Juliana Rocha,1,1450.00,0.05,1020.00
+VDA0080,2025-09-21,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P005,Mouse Wireless,Periféricos,V003,Beatriz Alves,5,120.00,0.08,55.00
+VDA0273,2025-09-21,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,4,610.00,0.10,390.00
+VDA0247,2025-09-25,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P009,Dock USB-C,Acessórios,V004,Rafael Martins,4,420.00,0.03,230.00
+VDA0087,2025-09-29,C005,SulData,Corporativo,Curitiba,PR,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,20,610.00,0.08,390.00
+VDA0221,2025-09-29,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P012,Cadeira Office,Mobiliário,V001,Ana Souza,2,1100.00,0.05,720.00
+VDA0109,2025-09-30,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P006,Teclado Mecânico,Periféricos,V002,Carlos Lima,3,280.00,0.03,145.00
+VDA0124,2025-10-01,C010,Pará Sistemas,PME,Belém,PA,Norte,P012,Cadeira Office,Mobiliário,V006,Marcos Silva,1,1100.00,0.00,720.00
+VDA0164,2025-10-01,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P011,HD Externo 2TB,Armazenamento,V004,Rafael Martins,3,610.00,0.03,390.00
+VDA0157,2025-10-03,C016,Tocantins Agro,PME,Palmas,TO,Norte,P008,Webcam HD,Acessórios,V006,Marcos Silva,3,240.00,0.03,125.00
+VDA0029,2025-10-04,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P004,Monitor 27,Monitores,V006,Marcos Silva,6,1450.00,0.10,1020.00
+VDA0139,2025-10-04,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,4,420.00,0.00,230.00
+VDA0147,2025-10-05,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,3,610.00,0.00,390.00
+VDA0096,2025-10-07,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,8,420.00,0.12,230.00
+VDA0077,2025-10-08,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P007,Headset Pro,Periféricos,V004,Rafael Martins,8,350.00,0.03,190.00
+VDA0270,2025-10-08,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P003,Monitor 24,Monitores,V006,Marcos Silva,12,950.00,0.08,670.00
+VDA0054,2025-10-11,C010,Pará Sistemas,PME,Belém,PA,Norte,P011,HD Externo 2TB,Armazenamento,V006,Marcos Silva,2,610.00,0.10,390.00
+VDA0119,2025-10-11,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,4,240.00,0.05,125.00
+VDA0213,2025-10-15,C005,SulData,Corporativo,Curitiba,PR,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,4,520.00,0.10,330.00
+VDA0217,2025-10-15,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,15,350.00,0.10,190.00
+VDA0176,2025-10-17,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P001,Notebook Pro 14,Informática,V003,Beatriz Alves,10,3500.00,0.10,2650.00
+VDA0239,2025-10-17,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,5,610.00,0.15,390.00
+VDA0131,2025-10-19,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,5,120.00,0.08,55.00
+VDA0294,2025-10-21,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P002,Notebook Air 13,Informática,V001,Ana Souza,1,2900.00,0.03,2200.00
+VDA0083,2025-10-22,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V004,Rafael Martins,2,610.00,0.10,390.00
+VDA0243,2025-10-25,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P008,Webcam HD,Acessórios,V004,Rafael Martins,4,240.00,0.10,125.00
+VDA0094,2025-10-27,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P007,Headset Pro,Periféricos,V005,Juliana Rocha,12,350.00,0.00,190.00
+VDA0004,2025-10-29,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,2,240.00,0.12,125.00
+VDA0161,2025-10-30,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P009,Dock USB-C,Acessórios,V001,Ana Souza,2,420.00,0.00,230.00
+VDA0048,2025-11-01,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,1,520.00,0.00,330.00
+VDA0198,2025-11-02,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P003,Monitor 24,Monitores,V005,Juliana Rocha,1,950.00,0.10,670.00
+VDA0207,2025-11-02,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,4,350.00,0.05,190.00
+VDA0262,2025-11-06,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P004,Monitor 27,Monitores,V005,Juliana Rocha,1,1450.00,0.00,1020.00
+VDA0078,2025-11-07,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P010,SSD 1TB,Armazenamento,V005,Juliana Rocha,5,520.00,0.05,330.00
+VDA0291,2025-11-08,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P003,Monitor 24,Monitores,V003,Beatriz Alves,5,950.00,0.05,670.00
+VDA0274,2025-11-11,C010,Pará Sistemas,PME,Belém,PA,Norte,P001,Notebook Pro 14,Informática,V006,Marcos Silva,3,3500.00,0.05,2650.00
+VDA0269,2025-11-12,C005,SulData,Corporativo,Curitiba,PR,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,1,240.00,0.00,125.00
+VDA0051,2025-11-15,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P008,Webcam HD,Acessórios,V002,Carlos Lima,20,240.00,0.15,125.00
+VDA0238,2025-11-18,C005,SulData,Corporativo,Curitiba,PR,Sul,P003,Monitor 24,Monitores,V003,Beatriz Alves,4,950.00,0.10,670.00
+VDA0128,2025-11-19,C016,Tocantins Agro,PME,Palmas,TO,Norte,P010,SSD 1TB,Armazenamento,V006,Marcos Silva,5,520.00,0.00,330.00
+VDA0150,2025-11-19,C016,Tocantins Agro,PME,Palmas,TO,Norte,P001,Notebook Pro 14,Informática,V006,Marcos Silva,4,3500.00,0.00,2650.00
+VDA0171,2025-11-23,C005,SulData,Corporativo,Curitiba,PR,Sul,P008,Webcam HD,Acessórios,V003,Beatriz Alves,2,240.00,0.00,125.00
+VDA0290,2025-11-23,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,3,610.00,0.05,390.00
+VDA0099,2025-11-26,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P002,Notebook Air 13,Informática,V003,Beatriz Alves,3,2900.00,0.12,2200.00
+VDA0204,2025-11-26,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P008,Webcam HD,Acessórios,V001,Ana Souza,15,240.00,0.00,125.00
+VDA0246,2025-11-27,C011,Horizonte Saúde,Corporativo,Belo Horizonte,MG,Sudeste,P009,Dock USB-C,Acessórios,V002,Carlos Lima,1,420.00,0.00,230.00
+VDA0292,2025-11-27,C005,SulData,Corporativo,Curitiba,PR,Sul,P004,Monitor 27,Monitores,V003,Beatriz Alves,3,1450.00,0.05,1020.00
+VDA0152,2025-11-28,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P002,Notebook Air 13,Informática,V004,Rafael Martins,8,2900.00,0.05,2200.00
+VDA0030,2025-11-29,C010,Pará Sistemas,PME,Belém,PA,Norte,P011,HD Externo 2TB,Armazenamento,V006,Marcos Silva,3,610.00,0.12,390.00
+VDA0040,2025-11-30,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P001,Notebook Pro 14,Informática,V003,Beatriz Alves,20,3500.00,0.10,2650.00
+VDA0142,2025-11-30,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P009,Dock USB-C,Acessórios,V003,Beatriz Alves,3,420.00,0.00,230.00
+VDA0160,2025-11-30,C013,Litoral Mídia,PME,Florianópolis,SC,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,20,610.00,0.05,390.00
+VDA0244,2025-11-30,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P010,SSD 1TB,Armazenamento,V001,Ana Souza,2,520.00,0.08,330.00
+VDA0015,2025-12-02,C019,Pernambuco Labs,PME,Olinda,PE,Nordeste,P004,Monitor 27,Monitores,V005,Juliana Rocha,4,1450.00,0.12,1020.00
+VDA0218,2025-12-03,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P010,SSD 1TB,Armazenamento,V002,Carlos Lima,8,520.00,0.00,330.00
+VDA0220,2025-12-03,C006,Ponto Sul,PME,Porto Alegre,RS,Sul,P010,SSD 1TB,Armazenamento,V003,Beatriz Alves,3,520.00,0.00,330.00
+VDA0028,2025-12-04,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P003,Monitor 24,Monitores,V003,Beatriz Alves,3,950.00,0.05,670.00
+VDA0178,2025-12-04,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P011,HD Externo 2TB,Armazenamento,V005,Juliana Rocha,5,610.00,0.00,390.00
+VDA0224,2025-12-05,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P008,Webcam HD,Acessórios,V004,Rafael Martins,3,240.00,0.08,125.00
+VDA0145,2025-12-06,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P005,Mouse Wireless,Periféricos,V005,Juliana Rocha,12,120.00,0.10,55.00
+VDA0226,2025-12-08,C010,Pará Sistemas,PME,Belém,PA,Norte,P009,Dock USB-C,Acessórios,V006,Marcos Silva,2,420.00,0.00,230.00
+VDA0104,2025-12-09,C008,Bahia Solutions,PME,Salvador,BA,Nordeste,P008,Webcam HD,Acessórios,V005,Juliana Rocha,1,240.00,0.15,125.00
+VDA0050,2025-12-10,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P003,Monitor 24,Monitores,V006,Marcos Silva,5,950.00,0.05,670.00
+VDA0144,2025-12-10,C014,Fortaleza Hub,Corporativo,Fortaleza,CE,Nordeste,P006,Teclado Mecânico,Periféricos,V005,Juliana Rocha,1,280.00,0.00,145.00
+VDA0253,2025-12-10,C005,SulData,Corporativo,Curitiba,PR,Sul,P011,HD Externo 2TB,Armazenamento,V003,Beatriz Alves,3,610.00,0.03,390.00
+VDA0185,2025-12-11,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P011,HD Externo 2TB,Armazenamento,V004,Rafael Martins,2,610.00,0.05,390.00
+VDA0172,2025-12-13,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P005,Mouse Wireless,Periféricos,V001,Ana Souza,4,120.00,0.00,55.00
+VDA0183,2025-12-13,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P004,Monitor 27,Monitores,V002,Carlos Lima,6,1450.00,0.15,1020.00
+VDA0062,2025-12-16,C002,Beta Serviços,PME,Brasília,DF,Centro-Oeste,P004,Monitor 27,Monitores,V001,Ana Souza,2,1450.00,0.00,1020.00
+VDA0169,2025-12-16,C017,Mato Grosso Corp,Corporativo,Cuiabá,MT,Centro-Oeste,P010,SSD 1TB,Armazenamento,V001,Ana Souza,8,520.00,0.00,330.00
+VDA0170,2025-12-16,C003,Nexa Tecnologia,Corporativo,São Paulo,SP,Sudeste,P010,SSD 1TB,Armazenamento,V004,Rafael Martins,2,520.00,0.12,330.00
+VDA0205,2025-12-18,C016,Tocantins Agro,PME,Palmas,TO,Norte,P007,Headset Pro,Periféricos,V006,Marcos Silva,1,350.00,0.10,190.00
+VDA0211,2025-12-18,C009,Amazon Tech,Corporativo,Manaus,AM,Norte,P003,Monitor 24,Monitores,V006,Marcos Silva,12,950.00,0.00,670.00
+VDA0060,2025-12-20,C001,Alfa Consultoria,Corporativo,Goiânia,GO,Centro-Oeste,P002,Notebook Air 13,Informática,V001,Ana Souza,10,2900.00,0.05,2200.00
+VDA0167,2025-12-22,C004,Orbe Engenharia,PME,Campinas,SP,Sudeste,P003,Monitor 24,Monitores,V004,Rafael Martins,2,950.00,0.00,670.00
+VDA0043,2025-12-23,C015,Rio Office,Corporativo,Rio de Janeiro,RJ,Sudeste,P007,Headset Pro,Periféricos,V004,Rafael Martins,12,350.00,0.15,190.00
+VDA0251,2025-12-24,C012,Cerrado Log,PME,Anápolis,GO,Centro-Oeste,P011,HD Externo 2TB,Armazenamento,V001,Ana Souza,5,610.00,0.00,390.00
+VDA0120,2025-12-26,C018,Serra Sistemas,PME,Caxias do Sul,RS,Sul,P006,Teclado Mecânico,Periféricos,V003,Beatriz Alves,3,280.00,0.03,145.00
+VDA0208,2025-12-26,C020,Minas Analytics,Corporativo,Uberlândia,MG,Sudeste,P002,Notebook Air 13,Informática,V004,Rafael Martins,1,2900.00,0.08,2200.00
+VDA0072,2025-12-29,C007,Nordeste Digital,Corporativo,Recife,PE,Nordeste,P001,Notebook Pro 14,Informática,V005,Juliana Rocha,3,3500.00,0.05,2650.00
